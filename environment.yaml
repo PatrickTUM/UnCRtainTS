@@ -1,0 +1,26 @@
+name: uncrtaints
+channels:
+  - nvidia
+  - pytorch
+  - defaults
+dependencies:
+  - nvidia::cudatoolkit=11.7
+  - python
+  - pip=20.3
+  - pytorch::pytorch=2.0.0
+  - numpy
+  - pip:
+    - matplotlib
+    - torchmetrics==0.6.0
+    - torchnet==0.0.4
+    - scipy
+    - scikit-image
+    - rasterio
+    - natsort
+    - tqdm
+    - Pillow 
+    - dominate 
+    - visdom 
+    - fvcore
+    - tensorboard
+    - s2cloudless==1.6.0
