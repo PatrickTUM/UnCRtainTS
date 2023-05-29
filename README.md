@@ -9,7 +9,7 @@ This repository contains code accompanying the paper
 
 For additional information:
 
-* A preprint of the publication is accessible available on [arxiv](https://arxiv.org/pdf/2304.05464.pdf). 
+* A preprint of the publication is available on [arxiv](https://arxiv.org/pdf/2304.05464.pdf). 
 * The SEN12MS-CR-TS data set is accessible at the MediaTUM page [here](https://mediatum.ub.tum.de/1639953) (train split) and [here](https://mediatum.ub.tum.de/1659251) (test split).
 * You can find additional information on this and related projects on the associated [project page](https://patricktum.github.io/cloud_removal/).
 * For any further questions, please reach out to me here or via the credentials on my [website](https://pwjebel.com).
