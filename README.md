@@ -10,7 +10,7 @@ This repository contains code accompanying the paper
 For additional information:
 
 * A preprint of the publication is accessible available on [arxiv](https://arxiv.org/pdf/2304.05464.pdf). 
-* The open-access SEN12MS-CR-TS data set is accessible at the MediaTUM page [here](https://mediatum.ub.tum.de/1639953) (train split) and [here](https://mediatum.ub.tum.de/1659251) (test split).
+* The SEN12MS-CR-TS data set is accessible at the MediaTUM page [here](https://mediatum.ub.tum.de/1639953) (train split) and [here](https://mediatum.ub.tum.de/1659251) (test split).
 * You can find additional information on this and related projects on the associated [project page](https://patricktum.github.io/cloud_removal/).
 * For any further questions, please reach out to me here or via the credentials on my [website](https://pwjebel.com).
 ---
@@ -18,7 +18,7 @@ For additional information:
 ## Installation
 ### Dataset
 
-You can easily download the multi-temporal SEN12MS-CR-TS (and, optionally, the mono-temporal SEN12MS-CR) dataset via the shell script provided [here](https://github.com/PatrickTUM/SEN12MS-CR-TS/blob/master/util/dl_data.sh). Alternatively, you may download the SEN12MS-CR-TS data set (or parts of it) via the MediaTUM website [here](https://mediatum.ub.tum.de/1639953) (train split) and [here](https://mediatum.ub.tum.de/1659251), with further instructions provided in the dataset's own [dedicated repository](https://github.com/PatrickTUM/SEN12MS-CR-TS#dataset).
+You can easily download the multi-temporal SEN12MS-CR-TS (and, optionally, the mono-temporal SEN12MS-CR) dataset via the shell script in [`./util/dl_data.sh`](https://github.com/PatrickTUM/UnCRtainTS/blob/main/util/dl_data.sh). Alternatively, you may download the SEN12MS-CR-TS data set (or parts of it) via the MediaTUM website [here](https://mediatum.ub.tum.de/1639953) (train split) and [here](https://mediatum.ub.tum.de/1659251), with further instructions provided in the dataset's own [dedicated repository](https://github.com/PatrickTUM/SEN12MS-CR-TS#dataset).
 
 ### Code
 Clone this repository via `git clone https://github.com/PatrickTUM/UnCRtainTS.git`.
