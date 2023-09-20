@@ -9,7 +9,7 @@ This repository contains code accompanying the paper
 
 For additional information:
 
-* A preprint of the publication is available on [arxiv](https://arxiv.org/pdf/2304.05464.pdf). 
+* The publication is available in the [CVPRW Proceedings](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Ebel_UnCRtainTS_Uncertainty_Quantification_for_Cloud_Removal_in_Optical_Satellite_Time_CVPRW_2023_paper.pdf). 
 * The SEN12MS-CR-TS data set is accessible at the MediaTUM page [here](https://mediatum.ub.tum.de/1639953) (train split) and [here](https://mediatum.ub.tum.de/1659251) (test split).
 * You can find additional information on this and related projects on the associated [project page](https://patricktum.github.io/cloud_removal/).
 * For any further questions, please reach out to me here or via the credentials on my [website](https://pwjebel.com).
@@ -97,7 +97,7 @@ If you use this code, our models or data set for your research, please cite [thi
         booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
         year = {2023},
         organization = {IEEE},
-        url = {"https://arxiv.org/abs/2304.05464"}
+        url = {"[https://arxiv.org/abs/2304.05464](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Ebel_UnCRtainTS_Uncertainty_Quantification_for_Cloud_Removal_in_Optical_Satellite_Time_CVPRW_2023_paper.pdf)"}
 } 
 ```
 You may also be interested in our related works, which you can discover on the accompanying [website](https://patricktum.github.io/cloud_removal/).
