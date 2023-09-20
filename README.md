@@ -97,7 +97,7 @@ If you use this code, our models or data set for your research, please cite [thi
         booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
         year = {2023},
         organization = {IEEE},
-        url = {"[https://arxiv.org/abs/2304.05464](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Ebel_UnCRtainTS_Uncertainty_Quantification_for_Cloud_Removal_in_Optical_Satellite_Time_CVPRW_2023_paper.pdf)"}
+        url = {"https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Ebel_UnCRtainTS_Uncertainty_Quantification_for_Cloud_Removal_in_Optical_Satellite_Time_CVPRW_2023_paper.pdf"}
 } 
 ```
 You may also be interested in our related works, which you can discover on the accompanying [website](https://patricktum.github.io/cloud_removal/).
